@@ -39,6 +39,10 @@
 	.product-sec .about-title h2:after{
 		margin-right: -70%;
 	}
+	.profile-name h1{
+		font-size: 20px;
+		line-height: 28px;
+	}
 }
 @media (max-width: 320px) {
 	.profile-sec{
@@ -46,6 +50,10 @@
 	}
 	.oval-frame{
 		width: 100px;
+	}
+	.profile-name h1{
+		font-size: 18px;
+		line-height: 26px;
 	}
 	.mt-30{
 		margin-top: 25px;
